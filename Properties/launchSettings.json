@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DirectNWpfTest": {
+      "commandName": "Project",
+      "workingDirectory": "$(OutDir)",
+      "nativeDebugging": true
+    }
+  }
+}
